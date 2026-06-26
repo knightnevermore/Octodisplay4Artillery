@@ -18,10 +18,10 @@ What you need:
 - A display from Aliexpress*
 - A camera from Aliexpress*
 
-*I bought these two:
-TENSTAR ROBO 2,8 inch 240x320 320x480 SPI TFT Serial Port Module 5V/3,3V PCB Adapter ST7789V/ST7796S LCD Display  (2.8 Inch version)
+*I bought these two devices:
+- TENSTAR ROBO 2,8 inch 240x320 320x480 SPI TFT Serial Port Module 5V/3,3V PCB Adapter ST7789V/ST7796S LCD Display  (2.8 Inch version)
 (https://de.aliexpress.com/item/1005006175220737.html)
-Raspberry Pi 4 Camera 5 MP for Raspberry Pi 4B 3B+ 3B Zero  (I 130 version)
+- Raspberry Pi 4 Camera 5 MP for Raspberry Pi 4B 3B+ 3B Zero  (I 130 version)
 (https://de.aliexpress.com/item/32668508991.html)
 
 The 3D printed modules released here:
